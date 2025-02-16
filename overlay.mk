@@ -199,6 +199,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-razer-cheryl \
 	treble-overlay-realme-10pro \
 	treble-overlay-realme-10pro-systemui \
+	treble-overlay-realme-14proplus \
+	treble-overlay-realme-14proplus-systemui \
 	treble-overlay-realme-6 \
 	treble-overlay-realme-6i \
 	treble-overlay-realme-8-5g \
