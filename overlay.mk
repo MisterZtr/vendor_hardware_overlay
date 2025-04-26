@@ -419,6 +419,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-redmik50ultra \
 	treble-overlay-xiaomi-redmik70 \
 	treble-overlay-xiaomi-redmik70-systemui \
+	treble-overlay-xiaomi-redmik70ultra \
+	treble-overlay-xiaomi-redmik70ultra-systemui \
 	treble-overlay-xiaomi-redminote10 \
 	treble-overlay-xiaomi-redminote10pro \
 	treble-overlay-xiaomi-redminote10s \
