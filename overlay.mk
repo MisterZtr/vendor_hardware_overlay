@@ -1,6 +1,4 @@
 PRODUCT_PACKAGES += \
-	HardwareOverlayPicker \
-	QtiAudio \
 	TrebleApp \
 	treble-overlay-Hisense-HLTE556N \
 	treble-overlay-NavBar \
